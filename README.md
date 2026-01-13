@@ -1,6 +1,8 @@
+
 # Hi 👋, I'm Muhammad Osama
 
 ### Data Engineer | AWS & GCP | L3 Technical Support | Data Integrations | OSS/BSS | ERP/CRM
+<img align="right" alt="Coding" width="300" src="assets/DE.gif"/>
 
 A Data Engineer with 3+ years of experience building scalable cloud-based data integration solutions and providing L3 technical support for production systems.
 
